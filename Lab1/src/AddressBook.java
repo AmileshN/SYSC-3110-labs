@@ -1,4 +1,3 @@
-//Amilesh Nanthakumaran 101231105
 import java.util.ArrayList;
 
 public class AddressBook {
